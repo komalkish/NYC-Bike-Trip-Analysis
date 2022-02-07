@@ -34,6 +34,7 @@ In order to solidify the proposol to the investor, we have performed the visuali
 ## Summary
 The analysis performed on the bike trip data for NYC shows most of the users are male, the average lenght of utilization by users for the bike is approx.20 minutes, and most of the users are male subscribers. 
 
-
+Tableau Public Profile
+https://public.tableau.com/app/profile/komal5144
 
 
